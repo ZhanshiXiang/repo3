@@ -1,1 +1,2 @@
-create rederme.txt
+create readme.txt
+alter  readme.txt
